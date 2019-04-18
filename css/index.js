@@ -1,0 +1,4 @@
+getPeople()
+{
+    alert("FDX FUNCIONA");
+}
